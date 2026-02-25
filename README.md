@@ -18,7 +18,7 @@
 ├──────────────────┬─────────────────────────────────────────────┤
 │  IDENTIFICAÇÃO   │                                             │
 │  ICAO24: [____]  │           🗺  MAPA INTERATIVO               │
-│  [▶ RASTREAR]    │                                             │
+│  [▶ RASTREAR]   │                                              │
 │                  │     ─────────────────────────────           │
 │  DADOS DO VOO    │    /   RASTRO DO VOO (linha azul)           │
 │  Callsign: XXX   │                              ✈ (posição)   │
@@ -231,4 +231,5 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 <div align="center">
   Feito com ☕ e JavaScript puro
 </div>
+
 
